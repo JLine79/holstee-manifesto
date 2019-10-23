@@ -1,0 +1,146 @@
+body {
+    margin: 10px;
+	padding: 5px;
+	overflow: auto;
+}
+
+header p{
+  font-family: sans-serif;
+  font-size: 18px;
+}
+
+.light-emphasis {
+	text-transform: capitalize;
+	letter-spacing: 2px;
+	font-size: 18px;
+	font-variant: small-caps;
+}
+
+.strong-emphasis {
+	color: #660066;
+	font-size: 25px;
+	text-transform: capitalize;
+}
+
+[class^="box"] {
+  overflow:auto;
+}
+
+.box1 {
+	background: pink;
+	float: left;
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 16px;
+	font-weight: bold;
+  height: 150px;
+	margin: 10px;
+	padding: 10px;
+  width: 40%;
+}
+
+.box2 {
+	background: blue;
+	float: left;
+	font-family: 'Concert One', cursive;
+	font-size: 20px;
+  height: 130px;
+	margin: 10px;
+	padding: 10px;
+	width: 40%;
+}
+
+.box3 {
+	background: yellow;
+	float: left;
+	font-family: 'Merienda', cursive;
+	font-size: 16px;
+	margin: 10px;
+	height: 65px;
+	padding: 10px;
+  text-align: center;
+	width: 82.5%;
+}
+
+.box4 {
+	background: #04fb67;
+	float: left;
+	font-family: 'Architects Daughter', cursive;
+	font-size: 20px;
+  height: 150px;
+	margin: 10px;
+	padding: 10px;
+	width: 40%;
+}
+
+.box5 {
+	background: #48f2f2;
+	float: left;
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 16px;
+  height: 150px;
+	margin: 10px;
+	padding: 10px;
+	width: 40%;
+}
+
+.box6 {
+	background: yellow;
+	float: left;
+	font-family: 'Concert One', cursive;
+	font-size: 20px;
+	height: 75px;
+	margin: 10px;
+	padding: 10px;
+  text-align: center;
+	width: 82.5%;
+}
+
+.box7 {
+    background: pink;
+	float: left;
+	font-family: 'Merienda', cursive;
+	font-size: 20px;
+	font-weight: bold;
+	height: 210px;
+	margin: 10px;
+	padding: 10px;
+	width: 40%;
+}
+
+.box8 {
+	background: blue;
+	float: left;
+	font-family: 'Architects Daughter', cursive;
+	font-size: 20px;
+	font-weight: bold;
+	height: 100px;
+	margin: 10px;
+	padding: 5px;
+  text-align: center;
+	width: 40%;
+}
+
+.box9 {
+	background: #04fb67;
+	float: left;
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 16px;
+	font-weight: bolder;
+	height: 85px;
+	margin: 10px;
+	padding: 5px;
+  text-align: center;
+	width: 40%;
+}
+
+.box10 {
+	background: #48f2f2;
+	float: left;
+	font-family: 'Concert One', cursive;
+	font-size: 20px;
+	height: 85px;
+	margin: 10px;
+	padding: 10px;
+  text-align: center;
+	width: 82%;
+}
